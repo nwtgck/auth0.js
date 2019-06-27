@@ -47,12 +47,12 @@
   },
   "dependencies": {
     "base64-js": "^1.2.0",
-    "idtoken-verifier": "^1.4.0",
+    "idtoken-verifier": "~1.4.0",
     "js-cookie": "^2.2.0",
     "qs": "^6.4.0",
     "superagent": "^3.8.3",
     "url-join": "^4.0.0",
-    "winchan": "^0.2.1"
+    "winchan": "~0.2.1"
   },
   "devDependencies": {
     "@auth0/component-cdn-uploader": "auth0/component-cdn-uploader#v2.2.1",
